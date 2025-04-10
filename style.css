@@ -102,4 +102,24 @@ body {
     bottom: 10px;
     border: none;
     color: transparent;
+    margin-right: 90px;
+    max-width: 0;
+}
+
+.btn_choosen {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    border: none;
+    color: transparent;
+    margin-right: 35px;
+    max-width: 0;
+}
+
+.btn_like:hover {
+    opacity: .8;
+}
+
+.btn_choosen:hover {
+    opacity: .8;
 }
